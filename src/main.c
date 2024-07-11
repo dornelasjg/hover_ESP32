@@ -33,7 +33,7 @@
 //#include "hd44780.h"
 #include "pid.h"
 #include "flashcontent.h"
-
+#include <stdio.h>
 #include "deadreckoner.h"
 #include "control_structures.h"
 

@@ -6,7 +6,7 @@
 #include "flashcontent.h"
 #include "flashaccess.h"
 #include "comms.h"
-
+#include <stdio.h>
 #include "stm32f1xx_hal.h"
 #ifdef CONTROL_SENSOR
     #include "sensorcoms.h"

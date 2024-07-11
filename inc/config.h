@@ -137,6 +137,7 @@
   #define INCLUDE_PROTOCOL INCLUDE_PROTOCOL2
   #define SERIAL_USART3_IT
   #define PHASE_ADV_ENA 0
+  
 #endif
 
 
