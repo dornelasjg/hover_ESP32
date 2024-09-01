@@ -6,7 +6,7 @@ It uses the USART3 (Right sensor of the board) to communicate with an ESP32 that
 All the credits of the base code to https://github.com/bipropellant
 
 Use this code for ESP32, and the master branch for STM32
-
+```
 #include <BluetoothSerial.h>
 
 BluetoothSerial SerialBT;
@@ -52,3 +52,4 @@ void loop() {
 
   delay(10);  // Pequeno atraso para evitar sobrecarregar o loop
 }
+```
